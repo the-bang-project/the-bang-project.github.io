@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Bang Project
 
 You can use the [editor on GitHub](https://github.com/the-bang-project/the-bang-project.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
